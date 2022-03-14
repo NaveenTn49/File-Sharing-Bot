@@ -4,20 +4,20 @@
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   </a>
-  <a href="https://t.me/CodeXBotz">
+  <a href="http://t.me/naveenfiletolinkbot">
     <img src="https://github.com/CodeXBotz/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
   </a><br>
   <a href="https://t.me/CodeXBotz">
     &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
-  <a href="https://t.me/codexbotzsupport">
+  <a href="http://t.me/naveenfiletolinkbot">
     &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
   <br>
-  <a href="https://github.com/CodeXBotz/File-Sharing-Bot/stargazers">
+  <a href="https://github.com/NaveenTn49/File-Sharing-Bot/stargazers">
     <img src="https://img.shields.io/github/stars/CodeXBotz/File-Sharing-Bot?style=social">
   </a>
-  <a href="https://github.com/CodeXBotz/File-Sharing-Bot/fork">
+  <a href="https://github.com/NaveenTn49/File-Sharing-Bot/fork">
     <img src="https://img.shields.io/github/forks/CodeXBotz/File-Sharing-Bot?label=Fork&style=social">
   </a>  
 </p>
@@ -57,7 +57,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/CodeXBotz/File-Sharing-Bot
+git clone https://github.com/NaveenTn49/File-Sharing-Bot
 cd File-Sharing-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
@@ -86,7 +86,7 @@ python3 main.py
 * `OWNER_ID` Must enter Your Telegram Id
 * `CHANNEL_ID` Your Channel ID eg:- -100xxxxxxxx
 * `ADMINS` Optional: A space separated list of user_ids of Admins, they can only create links
-* `START_MESSAGE` Optional: start message of bot, use HTML and <a href='https://github.com/codexbotz/File-Sharing-Bot/blob/main/README.md#start_message'>fillings</a>
+* `START_MESSAGE` Optional: start message of bot, use HTML and <a href='https://github.com/NaveenTn49/File-Sharing-Bot/blob/main/README.md#start_message'>fillings</a>
 * `FORCE_SUB_MESSAGE`Optional:Force sub message of bot, use HTML and Fillings
 * `FORCE_SUB_CHANNEL` Optional: ForceSub Channel ID, leave 0 if you want disable force sub
 
@@ -109,27 +109,4 @@ python3 main.py
 * `{filename}` - file name of the Document
 * `{previouscaption}` - Original Caption
 
-
-## Support   
-Join Our [Telegram Group](https://www.telegram.dog/codexbotzsupport) For Support/Assistance And Our [Channel](https://www.telegram.dog/codexbotz) For Updates.   
    
-Report Bugs, Give Feature Requests There..   
-
-### Credits
-
-- Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
-- Our Support Group Members
-
-### Licence
-[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
-
-[FILE-SHARING-BOT](https://github.com/CodeXBotz/File-Sharing-Bot/) is Free Software: You can use, study share and improve it at your
-will. Specifically you can redistribute and/or modify it under the terms of the
-[GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
-published by the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version. 
-
-##
-
-   **Star this Repo if you Liked it ⭐⭐⭐**
-
